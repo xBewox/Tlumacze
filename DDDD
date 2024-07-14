@@ -1,0 +1,34 @@
+# English translation file
+General:
+  Permission: "&c◊ &lVALIANTZ &8▏ &fYou do not have permission to use this command!"
+  CraftPerm: "&c◊ &lVALIANTZ &8▏ &fYou do not have permission to craft this backpack!"
+  NoRenamePerm: "&c◊ &lVALIANTZ &8▏ &fYou are not allowed to rename backpacks!"
+  Use: "&c◊ &lVALIANTZ &8▏ &fYou do not have permission to use this backpack!"
+  Offline-Player: "&c◊ &lVALIANTZ &8▏ &a%player% &fcould not be found!!"
+  Reload: "&c◊ &lVALIANTZ &8▏ &fYou have reloaded the plugin!"
+  BadArgs: "&c◊ &lVALIANTZ &8▏ &fType &a/bpp help &ffor help."
+  Console: "&c◊ &lVALIANTZ &8▏ &fYou must be a player to use this command!"
+  NotFound: "&c◊ &lVALIANTZ &8▏ &c%backpack% &fdoes not exist."
+  OverLimit: "&c◊ &lVALIANTZ &8▏ &fRemoved &c%removed% backpacks &fbecause you are only allowed to carry &a%limit% &fat once."
+BackPack:
+  ItemNotAllowed: "&c◊ &lVALIANTZ &8▏ &a%backpack% &fdoes not let you store &a%item% &finside."
+  OnCraft:
+    - "&c◊ &lVALIANTZ &8▏ &fYou have crafted a %backpack%"
+  OnGive: "&c◊ &lVALIANTZ &8▏ &fYou have given &7(x%amt%) %backpack% to &a%player%&f."
+  OnReceive: "&c◊ &lVALIANTZ &8▏ &fYou have been given &7(x%amt%) %backpack%"
+  Recipe-View:
+    Header:
+      - ""
+      - "&eHere is a list of current &cBackPack &erecipes:"
+      - " &7Hover over to see crafting recipes!"
+    Body: " &8[&a+&8]&7 &e%backpack%"
+    Footer:
+      - ""
+Help:
+  - ""
+  - "&c◊ &lVALIANTZ &8▏ &fBackpacks Commands:"
+  - "&8 ▶ &f/bpp"
+  - "&8 ▶ &f/bpp help"
+  - "&8 ▶ &f/bpp give <backpack> <player> [amount]"
+  - "&8 ▶ &f/bpp reload"
+  - "" 
